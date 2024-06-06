@@ -61,4 +61,5 @@ Password: `admin`
 Dashboards > New > Import Dashboard > Paste JSON into box from meshtastic_dashboard.json
 
 ## Finished product:
+![image](https://github.com/logans-stuff/meshtastic-db-exporter/assets/39987450/332e93ad-4c8a-4733-be8c-81d315eaed0b)
 
