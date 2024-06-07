@@ -1,5 +1,5 @@
 # Meshtastic NodeDB Exporter 
-This small project assisted by chatgpt uses a Python script to host a Prometheus endpoint that can then be used within Grafana for visualization.
+This small project assisted by chatgpt uses a Python script to host a Prometheus endpoint that can then be used within Grafana for visualization. This uses meshtastic's cli program to query the node for its node list and then parses this information without querying the mesh network or mqtt. 
 
 ## Instructions
 
